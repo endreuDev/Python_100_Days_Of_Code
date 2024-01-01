@@ -1,0 +1,8 @@
+Day 1 Project: Band Name Generator 
+Day 2 Project: Tip Calculator
+Day 3 Project: Treasure Island
+Day 4 Project: Rock Paper Scissors
+Day 5 Project: Password Generator
+Day 6: Python Functions & Karel (code unavailable)
+Day 7 Project: Hangman
+Day 8 Project: Caesar Cipher
